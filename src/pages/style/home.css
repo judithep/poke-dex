@@ -1,0 +1,63 @@
+.container__home{
+    background-image: url(https://wallpapers.com/images/hd/pikachu-with-pokemon-friends-uxxa8pvbvsqj0v3h.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.img__home{
+    width: 55%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    
+    
+}
+
+.h1__home__title{
+    font-size: 3.5rem;
+    margin-bottom: 45px;
+    color: #000000;
+}
+
+.p__home__name{
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 40px;
+    color: #ffffff;
+}
+
+.input__home__form{
+    width: 100%;
+    padding: 15px;
+    border: 1px solid #FE1936;
+    border-radius: 10px;
+    outline: none;
+    text-transform: capitalize;
+}
+
+.btn__home__Start{
+
+    padding: 15px;
+    margin-left: 20px;
+    border: none;
+    border-radius: 10px;
+    color: rgb(245, 241, 241);
+    background-color: #f91f3c;
+}
+
+.form__home__onsubmit{
+    width: 100%;
+    max-width: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
